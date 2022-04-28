@@ -28,4 +28,4 @@ Los datos estan alojados en `data/cookie_cats.csv`. Nuestro grupo de control ser
 
 ## Deliverables
 
-* Jupyter Notebook with AB testing.
+* Jupyter Notebook con AB testing.
