@@ -15,11 +15,11 @@ Actualmente la puerta se encuentra en nivel 30 y se pretende pasar al nivel 40, 
 
 ## Data description
 
-+ **UserID**: A unique number that identifies each player.
-+ **Version**: Whether the player was put in the control group (gate_30 - a gate at level 30) or the group with the moved gate (gate_40 - a gate at level 40).
-+ **sum_gamerounds**: The number of game rounds played by the player during the first 14 days after install.
-+ **retention_1**: Did the player come back and play 1 day after installing?
-+ **retention_7**: Did the player come back and play 7 days after installing?
++ **UserID**: Numero único que identifica a cada jugador.
++ **Version**: Si el jugador se colocó en el grupo de control (puerta_30 - una puerta en el nivel 30) o en el grupo con la puerta movida (puerta_40 - una puerta en el nivel 40).
++ **sum_gamerounds**: El número de rondas de juego jugadas por el jugador durante los primeros 14 días después de la instalación.
++ **retention_1**: ¿Regresó el jugador y jugó 1 día después de la instalación?
++ **retention_7**: ¿Regresó el jugador y jugó 7 días después de la instalación?
 
 
 ## Getting Started
